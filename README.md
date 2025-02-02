@@ -11,7 +11,7 @@ Welcome to my cybersecurity portfolio! I am a certified cybersecurity analyst wi
 - **Email:** Balogunalistephen@gmail.com
 - **Phone:** +234 809 840 3159
 - **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/ali-balogun-3bb755143)
-- **GitHub:** [Your GitHub Profile](https://github.com/username)
+- **GitHub:** [Your GitHub Profile](https://github.com/Dodonxdawa)
 
 I am a highly skilled professional with over 5 years of experience in automotive diagnostics, mechanical and electrical repairs, and IT support. Recently, I transitioned into cybersecurity, earning certifications such as **CompTIA Network+**, **ISC2 Certified in Cybersecurity (CC)**, **Microsoft AZ-900**, and **Microsoft SC-900**. My unique combination of automotive expertise and cybersecurity knowledge positions me perfectly for a career in **automotive cybersecurity engineering**.
 
@@ -59,7 +59,7 @@ Feel free to reach out to me for collaborations, job opportunities, or just to c
 
 - **Email:** Balogunalistephen@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/ali-balogun-3bb755143)
-- **GitHub:** [Your GitHub Profile](https://github.com/username)
+- **GitHub:** [Your GitHub Profile](https://github.com/Dodonxdawa)
 
 ---
 
